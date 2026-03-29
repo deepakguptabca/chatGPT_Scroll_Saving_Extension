@@ -1,6 +1,8 @@
 **Steps to install in your chrome**
 
 Step 1 : Download the zip file.
+
+
 Step 2 : Extract into a folder.
 Step 3 : Go to extensions and enable developer mode.
 Step 4 : Click on **Load Unpacked** and select the downloaded extension folder.
